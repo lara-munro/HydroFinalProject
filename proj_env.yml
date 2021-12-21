@@ -1,4 +1,5 @@
-name: proj_env
+name: proj-env
 dependencies:
     - numpy
     - pandas
+    - matplotlib
